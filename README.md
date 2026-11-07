@@ -34,6 +34,8 @@ efficiency of a device.
 
 ### Demo
 
+### Full Project
+To see the full project including source code and schematics, follow this link [https://github.com/gradybos/smart-moisture-monitor].
 
 ## USB Driving Simulator System [link]
 
