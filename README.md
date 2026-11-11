@@ -36,6 +36,12 @@ efficiency of a device.
 
 ![Device in plant](https://github.com/gradybos/smart-moisture-monitor/blob/main/images/devicefinal.png)
 
+This is the final device embedded into a plant's soil.
+
+![Architecture](https://github.com/gradybos/smart-moisture-monitor/blob/main/images/firmwarearchitecture.png)
+
+The state machine outlined in the image above describes the general operation of the device. After initialization, the device begins advertising, waiting for a Bluetooth connection. Once a connection is established, the device begins polling the moisture sensor and streaming these readings over a GATT service to the nRF Connect app. If the device is disconnected, it goes back to advertising and enters low-power mode.
+
 ### Full Project
 To see the full project including source code and schematics, [follow this link](https://github.com/gradybos/smart-moisture-monitor).
 
