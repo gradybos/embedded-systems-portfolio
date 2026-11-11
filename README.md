@@ -1,6 +1,6 @@
 # Grady Bosanko Embedded Systems Portfolio
 
-## BLE Soil Moisture Monitor [https://github.com/gradybos/smart-moisture-monitor]
+## BLE Soil Moisture Monitor [Full Repository](https://github.com/gradybos/smart-moisture-monitor)
 
 ### Project Summmary
 A BLE soil moisture monitor that allows me to check the current moisture of the soil as a percentage from my phone.
