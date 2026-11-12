@@ -45,7 +45,7 @@ The state machine outlined in the image above describes the general operation of
 ### Full Project
 To see the full project including source code and schematics, [follow this link](https://github.com/gradybos/smart-moisture-monitor).
 
-## USB Driving Simulator System [link]
+## USB Driving Simulator System [[Full Repository]](https://github.com/gradybos/usb-steering-wheel)
 
 ### Project Summary
 A USB powered driving simulator system including steering, pedals, and interrupt-driven buttons. Though many
@@ -80,3 +80,7 @@ more manageable. The construction saying "measure twice, cut once" is equally tr
 buying components that do not work as intended wastes money, but more importantly time. In the world of professional engineering,
 time is considerably more valuable than money since an engineer's time is expensive, and each day with an unfinished product is
 a day that does not profit from that product. Being able to see this holistic process helped me understand these points.
+
+### Full Project
+To see the full project including source code and in-depth breakdowns, [follow this link](https://github.com/gradybos/usb-steering-wheel).
+
