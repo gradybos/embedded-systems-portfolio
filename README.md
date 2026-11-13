@@ -2,7 +2,7 @@
 
 ## BLE Soil Moisture Monitor [[Full Repository]](https://github.com/gradybos/smart-moisture-monitor)
 
-### Project Summmary
+### Project Summary
 A BLE soil moisture monitor that allows me to check the current moisture of the soil as a percentage from my phone.
 The motivation for this project was that whenever I try to take care of a plant, I always find myself wondering
 when I should be watering it. Watering it too much or too little can easily kill the plant, so having a way to
@@ -87,7 +87,7 @@ Having the opportunity to experience this process showed me how important it is 
 field of engineering. Problems can seem daunting at first, but by breaking them down further and further they become much
 more manageable. The construction saying "measure twice, cut once" is equally true for component selection, since
 buying components that do not work as intended wastes both money and time. In the world of professional engineering,
-time is extremely valuable tsince an engineer's time is expensive, and each day with an unfinished product is
+time is extremely valuable since an engineer's time is expensive, and each day with an unfinished product is
 a day that does not profit from that product. Being able to see this holistic process helped me understand these points.
 
 ### Full Project
