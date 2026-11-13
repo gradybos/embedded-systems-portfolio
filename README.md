@@ -64,21 +64,30 @@ and focused on performance and precision to cut costs and address an underserved
 
 ### Results
 
+![Wheel Photo](https://github.com/gradybos/usb-steering-wheel/blob/main/images/system.png)
+
+This is a photo of the final steering wheel.
+
+![Wheel Results](https://github.com/gradybos/usb-steering-wheel/blob/main/images/results.png)
+
+The results listed are values achieved by the final design. The specifications measured were deemed to be the most important factors when trying to create a competitively viable solution, thus it was important to meet each one appropriately.
+
 ### Key Takeaways
 This project taught me about the product lifecycle from start to finish. Senior capstone projects at Union College
 span across 3 terms. The first term focuses on market research and finding a niche or market that does not have
 an existing sufficient solution. By the end of this term, a team has a problem statement, a proposed solution, and
-background information on existing solutions in similar spaces. Going into the next term, teams look to flesh out
-their proposed solutions. This is done by creating block diagrams, understanding the solution's systems and subsystems,
+background information on existing solutions in similar spaces. 
+
+Going into the next term, teams look to flesh out their proposed solutions. This is done by creating block diagrams, understanding the solution's systems and subsystems,
 defining engineering specifications, and eventually comparing and selecting the components that will be included in the
 final build. This term concludes with a detailed design including circuit schematics, block diagrams, specifications, and
 justifications for component selection. The final term is where the product is physically assembled and benchmarked.
 
 Having the opportunity to experience this process showed me how important it is to make well thought-out decisions in the
 field of engineering. Problems can seem daunting at first, but by breaking them down further and further they become much
-more manageable. The construction saying "measure twice, cut once" is equally true for component selection as well, since
-buying components that do not work as intended wastes money, but more importantly time. In the world of professional engineering,
-time is considerably more valuable than money since an engineer's time is expensive, and each day with an unfinished product is
+more manageable. The construction saying "measure twice, cut once" is equally true for component selection, since
+buying components that do not work as intended wastes both money and time. In the world of professional engineering,
+time is extremely valuable tsince an engineer's time is expensive, and each day with an unfinished product is
 a day that does not profit from that product. Being able to see this holistic process helped me understand these points.
 
 ### Full Project
